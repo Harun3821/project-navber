@@ -1,8 +1,10 @@
 
+
 import './App.css'
 import Navbar from './components/Navbar/Navbar'
 // import Daisynavber from './components/DAisy/Daisynavber'
 import Priceopson from './components/PriceOpcen/Priceopson'
+import Linecharts from './components/Linechirt/Linecharts'
 
 function App() {
 
@@ -15,6 +17,8 @@ function App() {
 
       
       <Priceopson></Priceopson>
+
+      <Linecharts></Linecharts>
 
 
            
